@@ -5,6 +5,7 @@ public class SearchPage {
 	public void searchPage() {
 		
 		System.out.println("search page method");
+		//comment for git
 	}
 	
 }
